@@ -1,0 +1,33 @@
+# Core LangChain / LangGraph
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-groq
+langchain-huggingface
+langgraph
+langgraph-checkpoint-sqlite
+
+# MCP support (MultiServerMCPClient, FastMCP)
+langchain-mcp-adapters
+fastmcp
+
+# Embeddings / vector store
+sentence-transformers
+faiss-cpu
+
+# PDF loading
+pypdf
+
+# Web search tool (DuckDuckGoSearchRun)
+duckduckgo-search
+
+# Async SQLite (AsyncSqliteSaver)
+aiosqlite
+
+# Frontend
+streamlit
+
+# Utilities
+python-dotenv
+requests
