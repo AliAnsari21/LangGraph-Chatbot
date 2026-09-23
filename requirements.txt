@@ -31,5 +31,3 @@ streamlit
 # Utilities
 python-dotenv
 requests
-
-torch==2.14.0+cpu
