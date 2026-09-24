@@ -31,3 +31,5 @@ streamlit
 # Utilities
 python-dotenv
 requests
+
+ddgs
